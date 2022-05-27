@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "642130566159",
+    "firebase_url": "https://faisal-almadi-200271-default-rtdb.firebaseio.com",
+    "project_id": "faisal-almadi-200271",
+    "storage_bucket": "faisal-almadi-200271.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:642130566159:android:cbad64267481c1a51e577a",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "642130566159-356ko810u76hhhupf4lihj491mo8a5bv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGlJEnhLOj3Vw4aviqj-C5XRKhohAd3EY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "642130566159-356ko810u76hhhupf4lihj491mo8a5bv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
